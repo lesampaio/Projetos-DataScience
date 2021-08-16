@@ -6,6 +6,7 @@ O código aplica o Web Scraping no [Painel de Indicadores do IBGE](https://www.i
 * Python 3.x
 * Bibliotecas Python listadas abaixo
     * re (regex)
+    * numpy
     * pandas
     * requests2
     * beautfulsoup4
