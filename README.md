@@ -11,5 +11,5 @@
 
 ## Projetos:
 <ul>
- <li><a href = "https://github.com/lesampaio/Projetos-DataScience/tree/main/Webscraping">Webscraping IBGE</a></li>
+ <li><a href = "https://github.com/lesampaio/Projetos-DataScience/tree/main/Webscraping-IBGE">Webscraping IBGE</a></li>
 </ul>
