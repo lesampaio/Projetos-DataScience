@@ -9,7 +9,7 @@ O código aplica o Web Scraping no [Painel de Indicadores do IBGE](https://www.i
     * numpy
     * pandas
     * requests2
-    * beautfulsoup4
+    * beautifulsoup4
 
 
 ## Autora
