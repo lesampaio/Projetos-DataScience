@@ -10,12 +10,6 @@ O código aplica o Web Scraping no [Painel de Indicadores do IBGE](https://www.i
     * requests2
     * beautfulsoup4
 
-## Rodar o código
-```
-
-python webscraping.py
-
-```
 
 ## Autora
 Letícia Sampaio - [linkedin](https://www.linkedin.com/in/lesampaio/)
